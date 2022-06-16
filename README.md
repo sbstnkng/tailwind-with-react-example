@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Tailwind CSS with ReactJS
+
+[![Build and Deploy](https://github.com/sbstnkng/tailwind-with-react-example/actions/workflows/ci-pipeline.yml/badge.svg)](https://github.com/sbstnkng/tailwind-with-react-example/actions/workflows/ci-pipeline.yml)
+[![CodeQL](https://github.com/sbstnkng/tailwind-with-react-example/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sbstnkng/tailwind-with-react-example/actions/workflows/codeql-analysis.yml)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
