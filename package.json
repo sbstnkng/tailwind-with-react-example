@@ -44,12 +44,6 @@
   "devDependencies": {
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
-<<<<<<< Updated upstream
     "tailwindcss": "^3.1.4"
-=======
-    "prettier": "^2.7.1",
-    "prettier-plugin-tailwindcss": "^0.1.11",
-    "tailwindcss": "^3.1.3"
->>>>>>> Stashed changes
   }
 }
