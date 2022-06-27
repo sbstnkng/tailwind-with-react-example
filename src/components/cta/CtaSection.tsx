@@ -1,6 +1,6 @@
 import React from "react";
 
-const CtaSection = () => {
+const CtaSection: React.FC = () => {
   return (
     <div className="bg-gray-50">
       <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center lg:justify-between">
@@ -13,7 +13,7 @@ const CtaSection = () => {
         <div className="mt-8 flex lg:mt-0 lg:flex-shrink-0">
           <div className="inline-flex rounded-md shadow">
             <a
-              href="#"
+              href="/"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700"
             >
               Get started
@@ -21,7 +21,7 @@ const CtaSection = () => {
           </div>
           <div className="ml-3 inline-flex rounded-md shadow">
             <a
-              href="#"
+              href="/"
               className="inline-flex items-center justify-center px-5 py-3 border border-transparent text-base font-medium rounded-md text-indigo-600 bg-white hover:bg-indigo-50"
             >
               Learn more
