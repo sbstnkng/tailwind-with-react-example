@@ -1,11 +1,14 @@
 import React from "react";
+import Hero from "./components/hero";
+import Features from "./components/features";
+import CtaSection from "./components/cta";
 
 const App: React.FC = () => {
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-center text-3xl font-semibold text-slate-800">
-        This page uses Tailwind CSS
-      </h1>
+    <div className="container mx-auto">
+      <Hero />
+      <Features />
+      <CtaSection />
     </div>
   );
 };
