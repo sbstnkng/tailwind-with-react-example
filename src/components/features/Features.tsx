@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  BellIcon,
+  ChatBubbleBottomCenterTextIcon,
   GlobeAltIcon,
   BoltIcon,
   ScaleIcon,
@@ -29,7 +29,7 @@ const features = [
     name: "Mobile notifications",
     description:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.",
-    icon: BellIcon,
+    icon: ChatBubbleBottomCenterTextIcon,
   },
 ];
 
