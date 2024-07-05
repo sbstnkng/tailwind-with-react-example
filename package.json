@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://sbstnkng.github.io/tailwind-with-react-example/",
   "dependencies": {
-    "@headlessui/react": "^2.1.1",
+    "@headlessui/react": "^2.1.2",
     "@heroicons/react": "^2.1.4",
     "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^16.0.0",
